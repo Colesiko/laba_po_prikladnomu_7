@@ -1,0 +1,43 @@
+INFO:root:User started program
+ERROR:root:Incorrect number.
+INFO:root:User started program
+INFO:root:Users input 2
+INFO:root:Users input 3
+INFO:root:Users input 4
+INFO:root:Users input 2
+ERROR:root:Incorrect number.
+INFO:root:User started program
+INFO:root:Users input 3
+INFO:root:Users input 2
+INFO:root:Users input 3
+INFO:root:Users input 4
+INFO:root:Program printed to user.
+INFO:root:Program printed to user.
+INFO:root:Program printed to user.
+INFO:root:Programm ended
+INFO:root:User started program
+INFO:root:Users input 5
+INFO:root:Users input 7
+ERROR:root:Incorrect number.
+INFO:root:User started program
+INFO:root:User started program
+ERROR:root:Incorrect number.
+INFO:root:User started program
+INFO:root:Users input 2
+INFO:root:Users input 3
+INFO:root:Users input 4
+INFO:root:Users input 2
+INFO:root:Program printed to user.
+INFO:root:Program printed to user.
+INFO:root:Programm ended
+INFO:root:User started program
+INFO:root:Users input 2
+ERROR:root:Incorrect number.
+INFO:root:User started program
+INFO:root:Users input 2
+INFO:root:Users input 3
+INFO:root:Users input 4
+INFO:root:Users input 2
+INFO:root:Program printed to user.
+INFO:root:Program printed to user.
+INFO:root:Programm ended
