@@ -3,9 +3,8 @@ logging.basicConfig(filename="ex.log", level=logging.INFO)
 while True:
     try:
         logging.info("User started program")
-#x1, y1, x2, y2
+        
         k = input("Введите x координату первого поля: ")
-
         bukv = k.isdigit()
         if bukv == False:  # проверка на буквы
             while bukv == False:
@@ -19,7 +18,6 @@ while True:
         logging.info(f"Users input {k}")
 
         l = input("Введите y координату первого поля: ")
-
         bukv = l.isdigit()
         if bukv == False:  # проверка на буквы
             while bukv == False:
@@ -33,7 +31,6 @@ while True:
         logging.info(f"Users input {l}")
 
         m = input("Введите x координату второго поля: ")
-
         bukv = m.isdigit()
         if bukv == False:  # проверка на буквы
             while bukv == False:
@@ -47,7 +44,6 @@ while True:
         logging.info(f"Users input {m}")
 
         n = input("Введите y координату второго поля: ")
-
         bukv = n.isdigit()
         if bukv == False:  # проверка на буквы
             while bukv == False:
@@ -62,7 +58,6 @@ while True:
 
         print("Выберите вашу фигуру: 1 - Конь, 2 - Слон, 3 - Ладья, 4 - Ферзь")
         fig = input("Ваша фигура: ")
-
         bukv = fig.isdigit()
         if bukv == False:  # проверка на буквы
             while bukv == False:
