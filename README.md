@@ -1,10 +1,10 @@
 ## Лабораторная работа №7
 Выполнил Тупикин Александр ФТ-210008
 
-##Рекомендации
+# Рекомендации
 Программу можно открыть в любой среде разработки для Python, написана в PyCharm Community Edition 2021
 
-##Скриншоты тестов
+## Скриншоты тестов
 ![скрин1](https://user-images.githubusercontent.com/49991441/208940799-5cc8e855-7ae0-4209-9f84-c7acd8404204.png)
 ![скрин11](https://user-images.githubusercontent.com/49991441/208940821-7eadd494-9a95-4502-968a-8810965f1804.png)
 ![скрин2](https://user-images.githubusercontent.com/49991441/208940829-9a4223aa-f2cc-45df-aad4-6d1f1a252bb6.png)
